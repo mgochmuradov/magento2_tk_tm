@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../lib/internal/Magento/Framework/App/Language/package.xsd">
+    <code>tk_TM</code>
+    <vendor>payhas</vendor>
+    <package>tk_tm</package>
+    <sort_order>100</sort_order>
+</language>

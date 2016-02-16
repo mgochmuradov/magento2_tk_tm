@@ -1,0 +1,33 @@
+{
+    "name": "payhas/magento-language-tk_tm",
+    "description": "Turkmen Language Pack for Magento 2",
+    "keywords": [
+        "magento2",
+        "translation"
+    ],
+    "type": "magento2-language",
+    "version": "0.0.1",
+    "license": [
+        "EFL1"
+    ],
+    "authors":[
+        {
+            "name":"Payhas H.K.",
+            "email": "support@payhas.com",
+            "homepage": "http://www.payhas.com/"
+        }
+    ],
+    "support": {
+        "email": "support@payhas.com",
+        "issues": "https://github.com/payhas/magento2_tk_tm",
+        "source": "https://github.com/payhas/magento2_tk_tm"
+    },
+    "require": {
+        "magento/framework": "100.0.*"
+    },
+    "autoload": {
+        "files": [
+            "registration.php"
+        ]
+    }
+}
